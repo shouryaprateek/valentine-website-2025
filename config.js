@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💕', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💗', '💕', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -28,8 +28,8 @@ const CONFIG = {
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "Entha prema?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "Entha ishtam nenante?",                          // For the love meter
+            startText: "Inthaaaaaaaaa!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "ooooo! nice choice, slayyy girll! 🎉💝💖💝💓",
+        title: "ooooo! Smart girlllllll! 🎉💝💖💝💓",
         message: "Now wait gift kosam and Veelaithe Nalugu Maatalu Kudirithe Cup Coffee..!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#fdd9e5",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff007f",     // Button color (should stand out against the background)
         buttonHover: "#ff66b2",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        textColor: "#ff007f"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
